@@ -106,8 +106,11 @@ An individual chart of each country is in the [/images/country charts](images/co
 
 ### Global comparisons
 
+#### Relationship between number of COVID-19 cases and government response  
 <img src="images/OxCGRT_indices_vs_time.png" width=80%>
 
-![World map of current government responses](images/OxCGRT_worldmap_govresponse.png)
+#### Map of government responses to COVID-19
+<img src="images/OxCGRT_worldmap_govresponse.png" width=80% height=60%>
 
-![World map of school closures](images/OxCGRT_worldmap_schools.png)
+#### Map of school closures in responses to COVID-19
+<img src="images/OxCGRT_worldmap_schools.png" width=80% height=60%>
